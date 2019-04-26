@@ -1,2 +1,3 @@
-# Project-2-Doctor-Web-Site-ASP.NET-MVC
-modules or parts of a doctor's personal website
+# Doctor's Personal Website
+
+An asp.net mvc application written for a doctor to be used as a personal website.
